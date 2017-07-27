@@ -20,6 +20,7 @@
 <body>
   <h1>Hello world</h1>
   <ul><?php foreach($INFO as $e){echo '<li>', $e, '</li>';}?></ul>
+  <h1>Hello world</h1>
   <li>テスト追加！</li>
 </body>
 </html>
