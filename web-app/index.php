@@ -18,7 +18,8 @@
   </style>
 </head>
 <body>
-  <h1>☆Hello world★</h1>
+  <h1>☆Hello world★エラー</h1>
+  <?php THIS-IS-ERROR();?> 
   <ul><?php foreach($INFO as $e){echo '<li>', $e, '</li>';}?></ul>
   <h1>Hello world</h1>
   <li>テスト追加！</li>
